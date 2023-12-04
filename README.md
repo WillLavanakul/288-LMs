@@ -1,4 +1,4 @@
-This repo contains projects for Berkeley's graduate NLP course. We implements and cover the following:
+This repo contains projects for Berkeley's graduate NLP course. We implement and cover the following:
 
 - POS Tagging models: neural N-gram models, LSTM networks, ensemble LSTM models
 - IBM model 1 for text alignment
